@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\lddia\\downloads\\ptf6\\my project (2)\\assets\\scripts\\sing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\lddia\\downloads\\ptf6\\my project (2)\\assets\\scripts\\camv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\Camerav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Camerav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\assets\\scripts\\nmgmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nmgmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sing.cs",
+              "DocumentMoniker": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\sing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\sing.cs",
+              "ToolTip": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\sing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\sing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:41:24.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nmgmove.cs",
+              "DocumentMoniker": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\nmgmove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\nmgmove.cs",
+              "ToolTip": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\nmgmove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\nmgmove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:36:32.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camv.cs",
+              "DocumentMoniker": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\Camv.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camv.cs",
+              "ToolTip": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\Camv.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:03:27.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camerav.cs",
+              "DocumentMoniker": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\Camerav.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camerav.cs",
+              "ToolTip": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\Camerav.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camerav.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:47:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
+              "ToolTip": "C:\\Users\\lddia\\Downloads\\ptf6\\My project (2)\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:25:59.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
